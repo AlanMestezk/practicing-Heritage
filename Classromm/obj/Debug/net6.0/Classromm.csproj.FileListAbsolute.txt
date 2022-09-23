@@ -1,0 +1,15 @@
+C:\Users\andre\Downloads\c#\Classromm\Classromm\bin\Debug\net6.0\Classromm.exe
+C:\Users\andre\Downloads\c#\Classromm\Classromm\bin\Debug\net6.0\Classromm.deps.json
+C:\Users\andre\Downloads\c#\Classromm\Classromm\bin\Debug\net6.0\Classromm.runtimeconfig.json
+C:\Users\andre\Downloads\c#\Classromm\Classromm\bin\Debug\net6.0\Classromm.dll
+C:\Users\andre\Downloads\c#\Classromm\Classromm\bin\Debug\net6.0\Classromm.pdb
+C:\Users\andre\Downloads\c#\Classromm\Classromm\obj\Debug\net6.0\Classromm.csproj.AssemblyReference.cache
+C:\Users\andre\Downloads\c#\Classromm\Classromm\obj\Debug\net6.0\Classromm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Downloads\c#\Classromm\Classromm\obj\Debug\net6.0\Classromm.AssemblyInfoInputs.cache
+C:\Users\andre\Downloads\c#\Classromm\Classromm\obj\Debug\net6.0\Classromm.AssemblyInfo.cs
+C:\Users\andre\Downloads\c#\Classromm\Classromm\obj\Debug\net6.0\Classromm.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\c#\Classromm\Classromm\obj\Debug\net6.0\Classromm.dll
+C:\Users\andre\Downloads\c#\Classromm\Classromm\obj\Debug\net6.0\refint\Classromm.dll
+C:\Users\andre\Downloads\c#\Classromm\Classromm\obj\Debug\net6.0\Classromm.pdb
+C:\Users\andre\Downloads\c#\Classromm\Classromm\obj\Debug\net6.0\Classromm.genruntimeconfig.cache
+C:\Users\andre\Downloads\c#\Classromm\Classromm\obj\Debug\net6.0\ref\Classromm.dll
